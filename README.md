@@ -1,3 +1,7 @@
+## WhatsApp clone using react
+
+This project is bulid using react and firebase as backend. It an clone of orginal whatsapp. It is a simple project to get fimiler with react and firebase.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

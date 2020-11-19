@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      {!user ? (
+      {user ? (
         <Login />
       ) : (
         <div className="app-body">
